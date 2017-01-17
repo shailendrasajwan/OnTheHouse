@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10116" systemVersion="15E65" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="eventMasterCell" rowHeight="218" id="ok7-0V-wUI" customClass="MasterDetailTableViewCell" customModule="OnTheHouse" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="218"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="ok7-0V-wUI" id="5hp-dX-rey">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="217.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="detailbg" translatesAutoresizingMaskIntoConstraints="NO" id="6B1-Oe-7FK">
+                        <rect key="frame" x="14" y="11" width="292" height="195"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="195" id="maM-Gf-jaH"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9ky-8U-iSU">
+                        <rect key="frame" x="23" y="82" width="42" height="24"/>
+                        <color key="backgroundColor" red="0.21065705128205126" green="0.19486974499642126" blue="0.20808488305169856" alpha="1" colorSpace="calibratedRGB"/>
+                        <fontDescription key="fontDescription" name="Avenir-Book" family="Avenir" pointSize="17"/>
+                        <color key="textColor" red="0.94188701923076923" green="0.94188701923076923" blue="0.94188701923076923" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="uCZ-RR-zU2">
+                        <rect key="frame" x="22" y="112" width="42" height="24"/>
+                        <color key="backgroundColor" red="0.21330128205128207" green="0.19731580874114626" blue="0.21069682719042285" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="21" id="vQA-cb-kOl"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" name="Avenir-Book" family="Avenir" pointSize="17"/>
+                        <color key="textColor" red="0.97924679487179489" green="0.97924679487179489" blue="0.97924679487179489" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                        <variation key="default">
+                            <mask key="constraints">
+                                <exclude reference="vQA-cb-kOl"/>
+                            </mask>
+                        </variation>
+                    </label>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Member-Gold" translatesAutoresizingMaskIntoConstraints="NO" id="19e-l0-adS">
+                        <rect key="frame" x="239" y="14" width="58" height="67"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="58" id="0Om-yb-SD4"/>
+                            <constraint firstAttribute="height" constant="67" id="IUJ-6x-WdD"/>
+                        </constraints>
+                    </imageView>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Member-Bronze" translatesAutoresizingMaskIntoConstraints="NO" id="Bwn-Hh-keY">
+                        <rect key="frame" x="176" y="14" width="58" height="67"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="58" id="pbc-Qc-O1u"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="749" text="Label" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumFontSize="14" translatesAutoresizingMaskIntoConstraints="NO" id="nV6-Ws-eue">
+                        <rect key="frame" x="19" y="146" width="278" height="55"/>
+                        <color key="backgroundColor" red="0.10315868787215736" green="0.10783253205128207" blue="0.10641270899424067" alpha="0.67098599137931036" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="55" id="flx-oN-tQ2"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" name="Avenir-Heavy" family="Avenir" pointSize="20"/>
+                        <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="trailing" secondItem="6B1-Oe-7FK" secondAttribute="trailing" constant="14" id="2nr-V2-I04"/>
+                    <constraint firstItem="6B1-Oe-7FK" firstAttribute="leading" secondItem="5hp-dX-rey" secondAttribute="leading" constant="14" id="7EW-Bc-eaR"/>
+                    <constraint firstItem="Bwn-Hh-keY" firstAttribute="top" secondItem="19e-l0-adS" secondAttribute="top" id="7nl-U4-Yhh"/>
+                    <constraint firstItem="9ky-8U-iSU" firstAttribute="top" secondItem="5hp-dX-rey" secondAttribute="top" constant="82" id="AZD-WY-8Wm"/>
+                    <constraint firstAttribute="bottom" secondItem="6B1-Oe-7FK" secondAttribute="bottom" constant="11" id="Aut-ic-a8e"/>
+                    <constraint firstItem="Bwn-Hh-keY" firstAttribute="bottom" secondItem="19e-l0-adS" secondAttribute="bottom" id="F0q-bs-ufL"/>
+                    <constraint firstItem="19e-l0-adS" firstAttribute="top" secondItem="5hp-dX-rey" secondAttribute="topMargin" constant="6" id="G0m-s5-faS"/>
+                    <constraint firstItem="nV6-Ws-eue" firstAttribute="leading" secondItem="5hp-dX-rey" secondAttribute="leadingMargin" constant="11" id="Icw-pr-myZ"/>
+                    <constraint firstAttribute="trailingMargin" secondItem="19e-l0-adS" secondAttribute="trailing" constant="15" id="JoW-VG-IGa"/>
+                    <constraint firstItem="nV6-Ws-eue" firstAttribute="top" secondItem="uCZ-RR-zU2" secondAttribute="bottom" constant="10.5" id="SBZ-kI-GMO"/>
+                    <constraint firstItem="9ky-8U-iSU" firstAttribute="leading" secondItem="5hp-dX-rey" secondAttribute="leading" constant="23" id="SpQ-UA-X30"/>
+                    <constraint firstItem="uCZ-RR-zU2" firstAttribute="top" secondItem="9ky-8U-iSU" secondAttribute="bottom" constant="6" id="Uti-Lt-zXx"/>
+                    <constraint firstAttribute="trailingMargin" secondItem="nV6-Ws-eue" secondAttribute="trailing" constant="15" id="V5W-5Q-KUv"/>
+                    <constraint firstItem="6B1-Oe-7FK" firstAttribute="top" secondItem="5hp-dX-rey" secondAttribute="top" constant="11" id="Xoh-Nh-KzN"/>
+                    <constraint firstItem="19e-l0-adS" firstAttribute="leading" secondItem="Bwn-Hh-keY" secondAttribute="trailing" constant="5" id="ekD-wK-gLF"/>
+                    <constraint firstAttribute="bottomMargin" secondItem="nV6-Ws-eue" secondAttribute="bottom" constant="8.5" id="g5l-yO-YN5"/>
+                    <constraint firstItem="uCZ-RR-zU2" firstAttribute="leading" secondItem="5hp-dX-rey" secondAttribute="leadingMargin" constant="14" id="tzc-oI-m0q"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="BronzeImage" destination="Bwn-Hh-keY" id="I4a-Ft-sQ5"/>
+                <outlet property="EventHeadingPrice" destination="9ky-8U-iSU" id="i2c-Tc-cCq"/>
+                <outlet property="EventTitle" destination="nV6-Ws-eue" id="2ge-IK-C3g"/>
+                <outlet property="FullPrice" destination="uCZ-RR-zU2" id="vPc-MT-j8h"/>
+                <outlet property="GoldImage" destination="19e-l0-adS" id="zF2-EN-wDS"/>
+                <outlet property="eventImage" destination="6B1-Oe-7FK" id="R1D-Pz-3vg"/>
+            </connections>
+            <point key="canvasLocation" x="311" y="327"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="Member-Bronze" width="95" height="124"/>
+        <image name="Member-Gold" width="95" height="124"/>
+        <image name="detailbg" width="5506" height="3671"/>
+    </resources>
+</document>

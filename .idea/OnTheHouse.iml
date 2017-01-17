@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CIDR_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/PaymentFlow.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Podfile" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/ChangeDetailsViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/SocialAnswerViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/RegisterUserViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/Member.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/StateTableViewCell.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/EventMasterImprovedTableViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/RevealShowVenueMapViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/ReservationRatingTableViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/MasterDetailTableViewCell.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/StringLengthValidationDelegate.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/TimeZonePickerDelegate.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/ShowBookingDetailViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/AffiliateLinkWebViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/OnTheHouse.xcdatamodeld/OnTheHouse.xcdatamodel" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/ContactUsViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/DetailTableViewCell.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/CustomCell.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/ReservationDetailTableViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/ReservationMasterTableViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/CustomizedTextField.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/OnTheHouse-Bridging-Header.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/CompetitionImageView.xib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/ImprovedEventDetailViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/ImprovedLoginViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/UserAddressViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/CompetitionViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/OTHService.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/ReservationUpcomingTableViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/StatePickerDelegate.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/Base.lproj/LaunchScreen.storyboard" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/Base.lproj/Main.storyboard" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/ReservationHelper.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/CompetitionTableViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/ImprovedEventFilterViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/SelectQuantityViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/DataFormatter.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/CustomizedUIButton.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/NewMemberData.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/CompetitionImageTableViewCell.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/MembershipHelper.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/ForgotPasswordViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/Event.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/FAQWebViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/Assets.xcassets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/PersonalDetailsViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/GoogleService-Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/UserHomeViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/Constants.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/NavigationViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/AppDelegate.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/TermsAndConditionViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/FilterEventsTableViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/EmailValidationDelegate.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/ReservationRatingTableViewCell.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/nameTableViewCell.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/PrivacyPolicyViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/EventRatingTableViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/CompetitionTitleTableViewCell.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/CustomReservationTableViewCell.xib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/MyMembershipViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/EventDetailCustomViewCell.xib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/EventMasterImprovedTableViewCell.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/CompetitionShowInformationTableViewCell.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/VenuePageController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/ChangePasswordViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/mapViewCell.xib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/CompetitionDetailTableViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/DetailTableViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/UserPreferenceController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/ReservationMapViewTableViewCell.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/PasswordValidation.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/OnTheHouse.entitlements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/AddressViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/BookingDetailsViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/ReservationTitleCell.xib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/PayPalPaymentViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/ReservationMasterTableViewCell.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouse/CustomStateCell.xib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouseTests/Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouseTests/OnTheHouseTests.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouseUITests/Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OnTheHouseUITests/OnTheHouseUITests.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Alamofire/Source/Validation.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Alamofire/Source/Timeline.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Alamofire/Source/Error.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Alamofire/Source/Stream.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Alamofire/Source/MultipartFormData.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Alamofire/Source/ServerTrustPolicy.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Alamofire/Source/ParameterEncoding.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Alamofire/Source/Result.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Alamofire/Source/Upload.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Alamofire/Source/Manager.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Alamofire/Source/Download.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Alamofire/Source/NetworkReachabilityManager.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Alamofire/Source/ResponseSerialization.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Alamofire/Source/Request.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Alamofire/Source/Notifications.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Alamofire/Source/Response.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Alamofire/Source/Alamofire.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Rows/AlertRow.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Rows/FieldsRow.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Rows/Controllers/MultipleSelectorViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Rows/Controllers/SelectorAlertController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Rows/Controllers/SelectorViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Rows/Controllers/ImagePickerController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Rows/DatePickerRow.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Rows/PickerInlineRow.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Rows/PopoverSelectorRow.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Rows/MultipleSelectorRow.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Rows/SwitchRow.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Rows/StepperRow.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Rows/LabelRow.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Rows/PushRow.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Rows/SegmentedRow.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Rows/CheckRow.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Rows/ActionSheetRow.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Rows/DateInlineRow.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Rows/SliderRow.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Rows/DateRow.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Rows/PickerRow.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Rows/ImageRow.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Rows/ButtonRow.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Rows/ButtonRowWithPresent.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Rows/TextAreaRow.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Rows/SelectableRows/ListCheckRow.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Rows/Common/OptionsRow.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Rows/Common/Protocols.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Rows/Common/DecimalFormatter.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Rows/Common/DateInlineFieldRow.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Rows/Common/GenericMultipleSelectorRow.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Rows/Common/DateFieldRow.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Rows/Common/FieldRow.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Rows/Common/SelectorRow.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Rows/PostalAddressRow.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Core/RowProtocols.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Core/SelectableSection.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Core/PresenterRowType.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Core/CellType.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Core/Core.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Core/Section.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Core/BaseRow.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Core/Operators.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Core/HeaderFooterView.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Core/RowControllerType.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Core/InlineRowType.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Core/Cell.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Core/RowType.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Core/NavigationAccessoryView.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Core/Form.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Core/SelectableRowType.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Core/Helpers.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Core/Row.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Eureka/Source/Resources/Eureka.bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Cosmos/Cosmos/CosmosView.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Cosmos/Cosmos/CosmosTouch.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Cosmos/Cosmos/CosmosText.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Cosmos/Cosmos/CosmosSize.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Cosmos/Cosmos/Helpers/CosmosTouchTarget.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Cosmos/Cosmos/CosmosAccessibility.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Cosmos/Cosmos/CosmosLocalizedRating.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Cosmos/Cosmos/StarLayer.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Cosmos/Cosmos/CosmosRating.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Cosmos/Cosmos/StarFillMode.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Cosmos/Cosmos/CosmosLayers.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Cosmos/Cosmos/CosmosLayerHelper.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Cosmos/Cosmos/CosmosDefaultSettings.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Cosmos/Cosmos/CosmosSettings.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Alamofire/Alamofire.modulemap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Alamofire/Alamofire-umbrella.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Alamofire/Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Alamofire/Alamofire-prefix.pch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Alamofire/Alamofire.xcconfig" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Alamofire/Alamofire-dummy.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Eureka/Eureka.xcconfig" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Eureka/Eureka-umbrella.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Eureka/Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Eureka/Eureka-dummy.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Eureka/Eureka.modulemap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Eureka/Eureka-prefix.pch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-OnTheHouseTests/Pods-OnTheHouseTests.modulemap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-OnTheHouseTests/Pods-OnTheHouseTests-frameworks.sh" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-OnTheHouseTests/Pods-OnTheHouseTests-umbrella.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-OnTheHouseTests/Pods-OnTheHouseTests-resources.sh" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-OnTheHouseTests/Pods-OnTheHouseTests-acknowledgements.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-OnTheHouseTests/Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-OnTheHouseTests/Pods-OnTheHouseTests.debug.xcconfig" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-OnTheHouseTests/Pods-OnTheHouseTests.release.xcconfig" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-OnTheHouseTests/Pods-OnTheHouseTests-acknowledgements.markdown" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-OnTheHouseTests/Pods-OnTheHouseTests-dummy.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-OnTheHouseUITests/Pods-OnTheHouseUITests-acknowledgements.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-OnTheHouseUITests/Pods-OnTheHouseUITests-resources.sh" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-OnTheHouseUITests/Pods-OnTheHouseUITests.release.xcconfig" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-OnTheHouseUITests/Pods-OnTheHouseUITests-dummy.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-OnTheHouseUITests/Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-OnTheHouseUITests/Pods-OnTheHouseUITests-acknowledgements.markdown" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-OnTheHouseUITests/Pods-OnTheHouseUITests-frameworks.sh" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-OnTheHouseUITests/Pods-OnTheHouseUITests.modulemap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-OnTheHouseUITests/Pods-OnTheHouseUITests-umbrella.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-OnTheHouseUITests/Pods-OnTheHouseUITests.debug.xcconfig" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Cosmos/Cosmos-dummy.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Cosmos/Cosmos-prefix.pch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Cosmos/Cosmos.modulemap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Cosmos/Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Cosmos/Cosmos-umbrella.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Cosmos/Cosmos.xcconfig" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Braintree/Braintree-umbrella.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Braintree/Braintree-dummy.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Braintree/ResourceBundle-Braintree-Drop-In-Localization-Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Braintree/Braintree.xcconfig" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Braintree/Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Braintree/Braintree-prefix.pch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Braintree/ResourceBundle-Braintree-UI-Localization-Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Braintree/Braintree.modulemap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-OnTheHouse/Pods-OnTheHouse-resources.sh" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-OnTheHouse/Pods-OnTheHouse-dummy.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-OnTheHouse/Pods-OnTheHouse.modulemap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-OnTheHouse/Pods-OnTheHouse-umbrella.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-OnTheHouse/Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-OnTheHouse/Pods-OnTheHouse.debug.xcconfig" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-OnTheHouse/Pods-OnTheHouse-frameworks.sh" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-OnTheHouse/Pods-OnTheHouse-acknowledgements.markdown" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-OnTheHouse/Pods-OnTheHouse-acknowledgements.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-OnTheHouse/Pods-OnTheHouse.release.xcconfig" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCard/BTCardClient.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCard/Public/BTCardNonce.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCard/Public/BTCardClient.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCard/Public/BraintreeCard.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCard/Public/BTCardRequest.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCard/Public/BTCard.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCard/BTCardClient_Internal.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCard/BTCard_Internal.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCard/BTCard.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCard/BTCardNonce_Internal.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCard/BTCardNonce.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCard/BTCardRequest.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/BTPaymentMethodNonceParser.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/BTHTTP.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/BTClientMetadata.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/Braintree-Version.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/BTJSON.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/BTHTTP.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/BTTokenizationService.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/BTPostalAddress.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/BTAnalyticsService.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/BTAnalyticsService.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/BTAPIClient_Internal.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/BTHTTPErrors.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/BTLogger.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/BTAPIPinnedCertificates.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/BTClientToken.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/BTURLUtils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/BTLogger_Internal.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/BTConfiguration.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/BTAppSwitch.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/BTURLUtils.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/BTPaymentMethodNonce.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/BTAnalyticsMetadata.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/BTKeychain.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/BTErrors.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/BTAPIPinnedCertificates.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/BTAnalyticsMetadata.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/BTKeychain.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/Public/BTViewControllerPresentingDelegate.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/Public/BTClientMetadata.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/Public/BTTokenizationService.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/Public/BTJSON.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/Public/BTPostalAddress.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/Public/BTHTTPErrors.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/Public/BTLogger.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/Public/BTClientToken.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/Public/BraintreeCore.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/Public/BTConfiguration.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/Public/BTAppSwitch.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/Public/BTPaymentMethodNonceParser.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/Public/BTPaymentMethodNonce.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/Public/BTErrors.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/Public/BTAPIClient.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeCore/BTAPIClient.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/BTPayPalDriver_Internal.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/Public/BTPayPalAccountNonce.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/Public/BTPayPalDriver.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/Public/BTPayPalRequest.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/Public/BTConfiguration+PayPal.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/Public/BraintreePayPal.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/BTPayPalAccountNonce_Internal.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/BTConfiguration+PayPal.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalUtils/PPOTString.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalUtils/PPOTSimpleKeychain.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalUtils/Public/PPOTTime.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalUtils/Public/PPOTPinnedCertificates.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalUtils/Public/PPOTJSONHelper.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalUtils/Public/PPOTURLSession.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalUtils/Public/PPOTSimpleKeychain.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalUtils/Public/PPOTVersion.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalUtils/Public/PPOTDevice.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalUtils/Public/PPOTString.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalUtils/Public/PPOTMacros.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalUtils/Public/PayPalUtils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalUtils/Public/PPOTEncryptionHelper.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalUtils/PPOTMacros.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalUtils/PPOTDevice.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalUtils/PPOTTime.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalUtils/PPOTURLSession.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalUtils/PPOTEncryptionHelper.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalUtils/PPOTPinnedCertificates.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalUtils/PPOTJSONHelper.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/BTPayPalRequestFactory.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalDataCollector/Public/PayPalDataCollector.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalDataCollector/Public/PPDataCollector.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalDataCollector/PPDataCollector.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalDataCollector/Risk/libPPRiskComponent.a" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalDataCollector/Risk/PPRCClientMetadataIDProvider.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalDataCollector/PPDataCollector_Internal.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Analytics/PPOTAnalyticsTracker.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Analytics/PPFPTIData.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Analytics/PPFPTITracker.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Analytics/PPOTAnalyticsTracker.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Analytics/PPFPTIData.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Analytics/PPFPTITracker.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Analytics/PPOTAnalyticsDefines.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Public/PPOTResult.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Public/PayPalOneTouch.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Public/PPOTRequestFactory.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Public/PPOTCore.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Public/PPOTRequest.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Configuration/PPOTConfiguration.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Configuration/PPOTConfiguration.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Configuration/PPDefaultConfigurationJSON.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Models/PPOTCheckoutRequest.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Models/PPOTAppSwitchUtil.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Models/PPOTAuthorizationRequest.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Models/PPOTOAuth2BrowserSwitchRequest.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Models/PPOTOAuth2AppSwitchRequest.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Models/PPOTOAuth2BrowserSwitchRequest.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Models/PPOTOAuth2AppSwitchRequest.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Models/PPOTAppSwitchResponse.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Models/PPOTCheckoutRequest_Internal.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Models/PPOTAppSwitchUtil.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Models/PPOTCheckoutBrowserSwitchRequest.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Models/PPOTCheckoutBrowserSwitchRequest.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Models/PPOTError.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Models/PPOTSwitchRequest.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Models/PPOTError.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Models/PPOTResult.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Models/PPOTSwitchRequest.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Models/PPOTRequest.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Models/PPOTOAuth2SwitchRequest.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Models/PPOTPersistentRequestData.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Models/PPOTCheckoutAppSwitchRequest.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Models/PPOTOAuth2SwitchRequest.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Models/PPOTCore_Internal.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Models/PPOTPersistentRequestData.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Models/PPOTCheckoutAppSwitchRequest.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Models/PPOTBillingAgreementRequest.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Models/PPOTRequestFactory.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Models/PPOTRequest_Internal.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Models/PPOTCore.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Models/PPOTAppSwitchResponse.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Models/PPOTAuthorizationRequest_Internal.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Models/PPOTCheckoutSwitchRequest.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Models/PPOTResult_Internal.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/PayPalOneTouch/Models/PPOTCheckoutSwitchRequest.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/BTPayPalAccountNonce.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/BTPayPalRequestFactory.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/BTPayPalDriver.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreePayPal/BTPayPalRequest.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Public/BTPaymentButton.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Public/BTUICardFormView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Public/BTUICTAControl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Public/BTUISummaryView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Public/UIColor+BTUI.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Public/BTPaymentRequest.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Public/BTDropInViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Public/BraintreeUI.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Public/BTUIThemedView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Public/BTUIPaymentMethodView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Public/BTUIVectorArtView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Public/BTUIPayPalButton.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Public/BTUICoinbaseButton.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Public/BTUIVenmoButton.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Public/BTUICardHint.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Public/BTUI.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Public/BTUIPaymentOptionType.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Custom Views/BTUIFloatLabel.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Custom Views/BTUITextField.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Custom Views/BTUIFormField_Protected.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Custom Views/BTUIFormField.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Custom Views/BTUIScrollView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Custom Views/BTUIFormField.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Custom Views/BTUIScrollView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Custom Views/BTUIFloatLabel.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Custom Views/BTUIThemedView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Custom Views/BTUITextField.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Custom Views/BTUIVectorArtView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Form Fields/BTUICardNumberField.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Form Fields/BTUICardPhoneNumberField.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Form Fields/BTUICardExpiryField.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Form Fields/BTUICardPostalCodeField.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Form Fields/BTUICardNumberField.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Form Fields/BTUICardPhoneNumberField.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Form Fields/BTUICardExpiryField.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Form Fields/BTUICardPostalCodeField.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Form Fields/BTUICardCvvField.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Form Fields/BTUICardCvvField.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Vector Art/BTUIMasterCardVectorArtView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Vector Art/BTUICardVectorArtView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Vector Art/BTUICoinbaseMonogramCardView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Vector Art/BTUIPayPalWordmarkVectorArtView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Vector Art/BTUIMasterCardVectorArtView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Vector Art/BTUICardVectorArtView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Vector Art/BTUIDiscoverVectorArtView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Vector Art/BTUIUnionPayVectorArtView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Vector Art/BTUIPayPalWordmarkVectorArtView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Vector Art/BTUIDiscoverVectorArtView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Vector Art/BTUIUnionPayVectorArtView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Vector Art/BTUIAmExVectorArtView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Vector Art/BTUICoinbaseWordmarkVectorArtView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Vector Art/BTUIVenmoWordmarkVectorArtView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Vector Art/BTUIDinersClubVectorArtView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Vector Art/BTUIVenmoWordmarkVectorArtView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Vector Art/BTUIDinersClubVectorArtView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Vector Art/BTUIPayPalMonogramCardView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Vector Art/BTUIJCBVectorArtView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Vector Art/BTUIAmExVectorArtView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Vector Art/BTUIPayPalMonogramCardView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Vector Art/BTUIJCBVectorArtView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Vector Art/BTUICoinbaseWordmarkVectorArtView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Vector Art/BTUIVenmoMonogramCardView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Vector Art/BTUIMaestroVectorArtView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Vector Art/BTUICoinbaseMonogramCardView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Vector Art/BTUIVenmoMonogramCardView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Vector Art/BTUICVVBackVectorArtView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Vector Art/BTUIUnknownCardVectorArtView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Vector Art/BTUICVVBackVectorArtView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Vector Art/BTUIUnknownCardVectorArtView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Vector Art/BTUIVisaVectorArtView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Vector Art/BTUICVVFrontVectorArtView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Vector Art/BTUIPayPalWordmarkCompactVectorArtView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Vector Art/BTUIVisaVectorArtView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Vector Art/BTUICVVFrontVectorArtView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Vector Art/BTUIMaestroVectorArtView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Vector Art/BTUIPayPalWordmarkCompactVectorArtView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/BTUIViewUtil.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Collection Views/BTUIPaymentButtonCollectionViewCell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Collection Views/BTUIHorizontalButtonStackCollectionViewFlowLayout.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Collection Views/BTUIPaymentButtonCollectionViewCell.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Collection Views/BTUIHorizontalButtonStackSeparatorLineView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Collection Views/BTUIHorizontalButtonStackCollectionViewFlowLayout.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Collection Views/BTUIHorizontalButtonStackSeparatorLineView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Forms/BTUICardFormView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Apple Pay/BTMockApplePayPaymentAuthorizationViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Apple Pay/BTMockApplePayPaymentAuthorizationView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Apple Pay/BTMockApplePayPaymentAuthorizationView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Apple Pay/BTMockApplePayPaymentAuthorizationViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Payments Components/BTUISummaryView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Payments Components/BTUIPayPalCompactButton.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Payments Components/BTUIPaymentMethodView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Payments Components/BTUICoinbaseButton.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Payments Components/BTUICTAControl.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Payments Components/BTUIVenmoButton.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Payments Components/BTUIPayPalButton.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Payments Components/BTUICardHint.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/Payments Components/BTUIPayPalCompactButton.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Views/BTUIViewUtil.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Models/BTUIUtil.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Models/BTUICardExpirationValidator.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Models/BTUICardType.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Models/BTUICardExpirationValidator.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Models/BTUICardType.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Models/BTUICardExpiryFormat.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Models/BTUICardExpiryFormat.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Models/BTPaymentRequest.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Models/BTUIUtil.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Localization/BTUILocalizedString.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Localization/BTUILocalizedString.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Theme/BTUI.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Theme/UIColor+BTUI.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Drop-In/BTDropInViewController_Internal.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Drop-In/BTDropInSelectPaymentMethodViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Drop-In/BTDropInErrorState.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Drop-In/BTDropInUtil.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Drop-In/BTDropInErrorAlert.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Drop-In/BTDropInSelectPaymentMethodViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Drop-In/BTDropInErrorState.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Drop-In/BTDropInUtil.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Drop-In/BTDropInErrorAlert.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Drop-In/BTPaymentButton_Internal.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Drop-In/BTPaymentButton.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Drop-In/BTDropInContentView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Drop-In/BTDropInViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Drop-In/BTDropInContentView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Drop-In/Localization/BTDropInLocalizedString.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Braintree/BraintreeUI/Drop-In/Localization/BTDropInLocalizedString.h" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library/Frameworks/XcodeKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library/Frameworks/InterfaceBuilderKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library/Frameworks/DTPerformanceSession.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CallKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/HealthKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PassKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/StoreKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreAudioKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MultipeerConnectivity.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AssetsLibrary.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WatchConnectivity.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/IntentsUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreVideo.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Messages.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SceneKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/OpenGLES.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CFNetwork.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vImage.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AddressBookUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/EventKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WatchKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GSS.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AudioUnit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreSpotlight.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/LocalAuthentication.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/HealthKitUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Metal.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/VideoToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Contacts.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/QuickLook.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SafariServices.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameplayKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WebKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CloudKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreImage.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/EventKitUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Photos.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MetalPerformanceShaders.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AVFoundation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AVFoundation.framework/Frameworks/AVFAudio.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Intents.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PushKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreTelephony.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UserNotificationsUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreText.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Speech.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ReplayKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SpriteKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Twitter.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NetworkExtension.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreAudio.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreData.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Foundation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MapKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ContactsUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMedia.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaAccessibility.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UserNotifications.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ExternalAccessory.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Security.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ModelIO.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GLKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MetalKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/HomeKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameController.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AVKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreBluetooth.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AdSupport.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMIDI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/VideoSubscriberAccount.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Social.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accounts.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/OpenAL.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NotificationCenter.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/JavaScriptCore.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ImageIO.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PhotosUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AddressBook.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NewsstandKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MessageUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreLocation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/QuartzCore.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/iAd.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMotion.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/8.0.0/include" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library/Frameworks/XcodeKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library/Frameworks/InterfaceBuilderKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library/Frameworks/DTPerformanceSession.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CallKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/HealthKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PassKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/StoreKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreAudioKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MultipeerConnectivity.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AssetsLibrary.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WatchConnectivity.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/IntentsUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreVideo.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Messages.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SceneKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/OpenGLES.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CFNetwork.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vImage.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AddressBookUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/EventKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WatchKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GSS.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AudioUnit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreSpotlight.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/LocalAuthentication.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/HealthKitUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Metal.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/VideoToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Contacts.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/QuickLook.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SafariServices.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameplayKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WebKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CloudKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreImage.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/EventKitUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Photos.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MetalPerformanceShaders.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AVFoundation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AVFoundation.framework/Frameworks/AVFAudio.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Intents.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PushKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreTelephony.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UserNotificationsUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreText.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Speech.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ReplayKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SpriteKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Twitter.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NetworkExtension.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreAudio.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreData.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Foundation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MapKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ContactsUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMedia.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaAccessibility.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UserNotifications.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ExternalAccessory.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Security.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ModelIO.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GLKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MetalKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/HomeKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameController.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AVKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreBluetooth.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AdSupport.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMIDI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/VideoSubscriberAccount.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Social.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accounts.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/OpenAL.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NotificationCenter.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/JavaScriptCore.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ImageIO.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PhotosUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AddressBook.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NewsstandKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MessageUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreLocation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/QuartzCore.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/iAd.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMotion.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/8.0.0/include" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>

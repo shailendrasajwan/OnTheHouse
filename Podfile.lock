@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (3.4.1)
+  - Braintree (4.5.0):
+    - Braintree/Card (= 4.5.0)
+    - Braintree/Core (= 4.5.0)
+    - Braintree/PayPal (= 4.5.0)
+    - Braintree/UI (= 4.5.0)
+  - Braintree/Card (4.5.0):
+    - Braintree/Core
+  - Braintree/Core (4.5.0)
+  - Braintree/PayPal (4.5.0):
+    - Braintree/Core
+    - Braintree/PayPalOneTouch
+  - Braintree/PayPalDataCollector (4.5.0):
+    - Braintree/Core
+    - Braintree/PayPalUtils
+  - Braintree/PayPalOneTouch (4.5.0):
+    - Braintree/Core
+    - Braintree/PayPalDataCollector
+    - Braintree/PayPalUtils
+  - Braintree/PayPalUtils (4.5.0)
+  - Braintree/UI (4.5.0):
+    - Braintree/Card
+    - Braintree/Core
+  - Cosmos (1.2.3)
+  - Eureka (1.7.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.4)
+  - Braintree
+  - Cosmos (~> 1.2)
+  - Eureka (~> 1.7)
+
+SPEC CHECKSUMS:
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  Braintree: 7bcebecbcfe5210ed4438a97638c230d2521b54d
+  Cosmos: efddd01b729956ad6335bc58bc92e5735a1d12a3
+  Eureka: 2020d9faeef7b7e9adeb9e3d8af779e5931c1897
+
+PODFILE CHECKSUM: e2f9d2606ef51462254b4ebde30bf22af442cb61
+
+COCOAPODS: 1.0.1

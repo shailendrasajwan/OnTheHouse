@@ -1,0 +1,8 @@
+﻿1. Mobile App requests a client token from Core System in order to initialize the client SDK(Optional).We are using the tokenization key provided by the Braintree to initialize the Braintree SDK.
+2. Core System generates and sends a client token back to your client with the server SDK.
+The steps mentioned above are optional,currently we are using Braintree tokenization method.
+3. Once the client SDK is initialized and the customer has submitted payment information, the SDK communicates that information to Braintree, which returns a payment method nonce
+4. Mobile App will then send the payment nonce to Core System
+The payment method nonce is a string returned by the client SDK to represent a payment method. This string is a reference to the customer payment method details that were provided in Mobile App payment form and should be sent to the Core System where it can be used with the server SDKs to create a new transaction request.Server integration doesn't need to know the payment method type (e.g. credit card, PayPal account, Bitcoin) that is represented in the nonce.
+5. Core System receives the payment method nonce from the Mobile App and then uses the server SDK to create a transaction or perform other Braintree functions detailed in the guides
+6. The Core System will notify the mobile app about the about the status of the transaction so that the mobile user could be presented with a proper message.
